@@ -32,7 +32,7 @@ int main()
     int tower;
     cout << "How tall is the tower? -> ";
     cin >> tower;
-    cout << endl << "The tower takes [" << hanoi(tower) << "] steps to completely move." << endl;
+    cout << endl << "The tower takes [" << hanoi(towr) << "] steps to completely move." << endl;
 }
 
 // -   1   2   3   4   5   6   7
